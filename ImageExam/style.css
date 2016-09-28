@@ -1,0 +1,26 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+.content {
+	/* cach dau dong 40 px */
+	margin : 40px auto;
+	width: 600px;/* cam le ben trai 600 px */
+	border: 1px solid #999;
+}
+.content h1{
+	color: Red;
+	text-align: center;
+}
+.content div.image{
+	padding-top:40px;
+	text-align:center;
+}
+.content div.image a{
+	display:block;
+	background-color:#686f97;
+	
+}
+.content div.image a:hover{
+	color:yellow;
+}
