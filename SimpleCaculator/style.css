@@ -1,0 +1,43 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+.content {
+	/* cach dau dong 40 px */
+	margin : 40px auto;
+	width: 600px;/* cam le ben trai 600 px */
+	border: 1px solid #999;
+}
+.content h1{
+	color: Red;
+	text-align: center;
+}
+.content div.row {
+	margin-top: 20px;
+}
+.content div.row span {
+	display: inline-block;
+	width : 250px;
+	text-align: right;
+}
+.content div.row input[type=text] {
+	padding: 3px 5px;		
+}
+.content div.row input[type="submit"] {
+	display: block;
+	padding: 3px 5px;
+	margin: 0px auto 20px auto;
+	text-align: center;
+}
+.content div.row input[type="submit"] {
+	display: block;
+	padding: 3px 5px;
+	margin: 0px auto 20px auto;
+	text-align: center;
+}
+.content p {
+	text-align: center;
+	
+	
+	
+}
